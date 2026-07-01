@@ -1,5 +1,7 @@
 # firstTest
 utk kelas AI (PDPP purposes)
-saya sangat lapar
-bawak nasi goreng
-i am s hungry
+
+saya sangat lapar,
+kita bawak nasi goreng
+
+and i am so hungry
